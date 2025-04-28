@@ -11,4 +11,5 @@ package asdasd;
 public class dsadsa
     {
         static final int x = 1;
+        static final int y = 2;
     }
